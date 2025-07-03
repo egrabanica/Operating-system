@@ -47,3 +47,25 @@ This project is a simulation of key Operating System components such as process 
 1. Download and install [Processing IDE](https://processing.org/download/)  
 2. Open the `src/` folder inside Processing  
 3. Ensure `sketch.properties` contains:  
+main=OSCW2024.pde
+
+yaml
+Copy code
+4. Click the **Run** button
+
+---
+
+## 📜 License
+
+This project is released under the **MIT License**. You are free to use, modify, and distribute it with attribution.
+
+---
+
+## 🙋 Author
+
+**Ertrim Grabanica**
+**Marios Zouzounis**  
+**Guri Gacaferi**  
+**Ajan Abazi**  
+BSc Computer Science – University of York Europe Campus  
+2024  
